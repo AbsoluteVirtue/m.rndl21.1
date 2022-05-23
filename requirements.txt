@@ -4,3 +4,5 @@ pandas
 tensorflow
 keras
 sklearn
+ipykernel
+statsmodels
